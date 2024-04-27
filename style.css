@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar-nav{
+    margin-left: 60%;
+    color: aliceblue;
+    text-align:justify;
+}
+
+.background{
+    background-image: url("./Images/image\ 33.png");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+.container{
+    text-align: center;
+}
+
+.nav-link {
+    color: aliceblue !important ; 
+}
+.main{
+    margin-top: 200px;
+    color:  #FC00FF 
+}
+.col{
+     color: #00DBDE;
+    
+
+}
+.btn{
+    color: black;
+    background-color: aliceblue;
+}
+.main1{
+    color: aliceblue !important ;
+}
+.arrow1{
+    display: left !important;
+}
